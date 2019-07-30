@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\20190816\workspace_git_test\workspace_school\z_prj\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3825757726.index
+4146101660.index
+1661175464.index
+236811735.index
+726125611.index
